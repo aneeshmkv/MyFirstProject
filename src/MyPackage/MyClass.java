@@ -7,6 +7,6 @@ import java.net.SocketPermission;
  */
 public class MyClass {
     public static void main(String[] args) {
-        System.out.println("My name is aneesh");
+        System.out.println("My name");
     }
 }
